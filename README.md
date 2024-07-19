@@ -58,6 +58,7 @@ A project for the Kaggle Digit Recognizer competition, showcasing advanced data 
 - Introduction to Git
 - Introduction to AWS
 - Parallel Programming with Dask in Python
+
 [DataCamp Profile](https://www.datacamp.com/portfolio/KaraBassasa)
   
 
