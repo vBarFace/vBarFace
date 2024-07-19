@@ -115,7 +115,8 @@ Taught and managed training sessions for different age groups, creating and deli
 
 ## Contacts
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-fernandes-868006207/).
-Explore my profiles on [Kaggle](https://www.kaggle.com/andrfernandes16), [DataCamp](https://www.datacamp.com/portfolio/KaraBassasa), and [Coursera](https://www.coursera.org/user/fb5210b9b4949a09c98ddb03be592915).
+
+Also, feel free as well to explore my profiles on [Kaggle](https://www.kaggle.com/andrfernandes16), [DataCamp](https://www.datacamp.com/portfolio/KaraBassasa), and [Coursera](https://www.coursera.org/user/fb5210b9b4949a09c98ddb03be592915).
 
 ## GitHub Profile
 
