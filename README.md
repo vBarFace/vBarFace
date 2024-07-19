@@ -26,12 +26,40 @@ A comprehensive project for the Kaggle Titanic competition, implementing various
 A project for the Kaggle Digit Recognizer competition, showcasing advanced data analysis and machine learning methods.
 
 ## Certifications
-- **Machine Learning Specialization (DeepLearning.AI) at Coursera**
+
+### Coursera
+- **Machine Learning Specialization (DeepLearning.AI)**
   - Courses:
     - Supervised Machine Learning: Regression and Classification
     - Advanced Learning Algorithms
     - Unsupervised Learning, Recommenders, Reinforcement Learning
   - [Coursera Profile](https://www.coursera.org/user/fb5210b9b4949a09c98ddb03be592915)
+
+### DataCamp
+- Introduction to Deep Learning with PyTorch
+- Intermediate Deep Learning with PyTorch
+- Deep Learning for Images with PyTorch
+- Advanced Deep Learning with Keras
+- Image Modeling with Keras
+- Introduction to Deep Learning with Keras
+- Deep Learning for Text with PyTorch
+- Image Processing in Python
+- Monitoring Machine Learning Concepts
+- Monitoring Machine Learning in Python
+- End-to-End Machine Learning
+- Introduction to Databases in Python
+- Introduction to SQL
+- Intermediate Importing Data in Python
+- Preprocessing for Machine Learning in Python
+- Developing Python Packages
+- Machine Learning for Business
+- Intermediate SQL
+- Joining Data in SQL
+- Introduction to Git
+- Introduction to AWS
+- Parallel Programming with Dask in Python
+[DataCamp Profile](https://www.datacamp.com/portfolio/KaraBassasa)
+  
 
 ## Education
 ### Aveiro University
