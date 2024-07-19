@@ -90,9 +90,31 @@ In 2024, I will be enrolled once again as a volunteer between 31 of July until 1
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-fernandes-868006207/).
 If curiouse, there is my [Kaggle](https://www.kaggle.com/andrfernandes16), [DataCamp](https://www.datacamp.com/portfolio/KaraBassasa) and my [Coursera](https://www.coursera.org/user/fb5210b9b4949a09c98ddb03be592915) profiles.
 
-- **Profile Views**: ![Profile views](https://img.shields.io/badge/Profile%20Views-1k%2B-blue?style=flat&logo=github)
-- **GitHub Stats**: [![GitHub stats](https://github-readme-stats.vercel.app/api?username=vBarFace&count_private=true&show_icons=true&hide=prs&theme=radical)](https://github.com/vBarFace)
-- **Kaggle Rank**: [![Kaggle Rank](https://img.shields.io/badge/Kaggle%20Rank-Top%20100-blue?style=flat&logo=kaggle)](https://www.kaggle.com/andrfernandes16)
-- **LinkedIn Profile Views**: [![LinkedIn Profile Views](https://img.shields.io/badge/LinkedIn%20Profile%20Views-1k%2B-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9-fernandes-868006207/)
-- **Coursera Certifications**: [![Coursera Certifications](https://img.shields.io/badge/Certifications%20Completed-5-brightgreen?style=flat&logo=coursera)](https://www.coursera.org/account-profile)
-- **DataCamp Portfolio**: [![DataCamp Portfolio](https://img.shields.io/badge/DataCamp%20Portfolio-View%20Profile-blue?style=flat&logo=datacamp)](https://www.datacamp.com/portfolio/KaraBassasa)
+## GitHub Profile
+
+### GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vBarFace&count_private=true&show_icons=true&hide=prs&theme=radical)
+
+### GitHub Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vBarFace&theme=radical)
+
+### GitHub Contributions Calendar
+![GitHub Contributions](https://github-contributions.simonw.dev/?username=vBarFace)
+
+### GitHub Profile Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=vBarFace)
+
+### GitHub Activity Graph
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vBarFace&theme=radical)
+
+### Wakatime Coding Stats
+[![Wakatime](https://wakatime.com/badge/user/USER_ID.svg)](https://wakatime.com/@USER_ID)
+
+### Dev Metrics
+[![Dev Metrics](https://devmetrics.io/api/metrics?username=vBarFace)](https://devmetrics.io/)
+
+### GitHub Stats Card
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vBarFace&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+
+### GitHub Profile Summary
+![GitHub Summary](https://github-profile-summary.vercel.app/api?username=vBarFace)
