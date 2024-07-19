@@ -24,8 +24,11 @@ A comprehensive project for the Kaggle Titanic competition, implementing various
 A project for the Kaggle Digit Recognizer competition, showcasing advanced data analysis and machine learning methods.
 
 ## Certifications
-- **Machine Learning Specialization (DeepLearning.AI)**
-  - Courses: Supervised Machine Learning: Regression and Classification, Advanced Learning Algorithms, Unsupervised Learning, Recommenders, Reinforcement Learning
+- **Machine Learning Specialization (DeepLearning.AI) at Coursera**
+  - Courses:
+    - Supervised Machine Learning: Regression and Classification
+    - Advanced Learning Algorithms
+    - Unsupervised Learning, Recommenders, Reinforcement Learning
   - [Coursera Profile](https://www.coursera.org/user/fb5210b9b4949a09c98ddb03be592915)
 
 ## Education
