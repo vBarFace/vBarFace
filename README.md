@@ -84,7 +84,8 @@ Taught and managed training sessions for different age groups, creating and deli
 - During the period of 3 to 14 of August 2022 I volunteered in "Support to Shows," where I managed restricted areas, oversaw parades, and controlled stand access at a major event. This role, which involved teamwork, visitor interaction, and handling unexpected issues, provided valuable experience. I also collaborated with civil protection. In August 2023, I was promoted to lead of two teams. I will return as a volunteer for the same event from July 31 to August 11, 2024.
 
 ## Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-fernandes-868006207/). Explore my profiles on [Kaggle](https://www.kaggle.com/andrfernandes16), [DataCamp](https://www.datacamp.com/portfolio/KaraBassasa), and [Coursera](https://www.coursera.org/user/fb5210b9b4949a09c98ddb03be592915).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-fernandes-868006207/).
+Explore my profiles on [Kaggle](https://www.kaggle.com/andrfernandes16), [DataCamp](https://www.datacamp.com/portfolio/KaraBassasa), and [Coursera](https://www.coursera.org/user/fb5210b9b4949a09c98ddb03be592915).
 
 ## GitHub Profile
 
