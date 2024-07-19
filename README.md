@@ -8,7 +8,7 @@ I'm a passionate Master’s student in Computational Engineering at Aveiro Unive
 - 🛠️ Aspiring Data Scientist and Machine Learning Engineer
 
 ## Skills
-- **Languages:** Python
+- **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
   - **Frameworks and Tools:** PyTorch, Keras, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Jupyter Notebook
 - **Version Control:** Git
 - **Databases:** SQL
