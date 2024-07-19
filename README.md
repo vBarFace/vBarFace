@@ -1,7 +1,7 @@
 # Hi there, I'm André Fernandes 👋
 
 ## About Me
-I'm a passionate Master’s student in Computational Engineering at Aveiro University, specializing in Data Science and Machine Learning. I’m dedicated to enhancing my skills and growing both personally and professionally. You can explore my projects on GitHub, where I showcase work from online courses and Kaggle competitions.
+I'm a passionate Master’s student in Computational Engineering at Aveiro University, specializing in Data Science and/or Machine Learning. I’m dedicated to enhancing my skills and growing both personally and professionally. You can explore my projects on GitHub, where I showcase work from online courses and Kaggle competitions.
 
 - 🌍 Based in Porto, Portugal
 - 📚 Master’s Student at Aveiro University
