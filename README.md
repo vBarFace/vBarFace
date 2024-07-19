@@ -90,8 +90,8 @@ In 2024, I will be enrolled once again as a volunteer between 31 of July until 1
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-fernandes-868006207/).
 If curiouse, there is my [Kaggle](https://www.kaggle.com/andrfernandes16), [DataCamp](https://www.datacamp.com/portfolio/KaraBassasa) and my [Coursera](https://www.coursera.org/user/fb5210b9b4949a09c98ddb03be592915) profiles.
 
-![Profile views](https://komarev.com/ghpvc/?username=vBarFace&color=blue)
-![GitHub contributions](https://github-readme-stats.vercel.app/api?username=vBarFace&count_private=true&show_icons=true&hide=prs&theme=tokyonight)
-![Kaggle Rank](https://img.shields.io/badge/Rank-Top%20%23100-blue)
-![LinkedIn Profile Views](https://img.shields.io/badge/LinkedIn%20Profile%20Views-1k%2B-blue)
-![Coursera Certifications](https://img.shields.io/badge/Completed%20Certifications-5-brightgreen)
+- **Profile Views**: ![Profile views](https://img.shields.io/badge/Profile%20Views-1k%2B-blue?style=flat&logo=github)
+- **GitHub Stats**: ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vBarFace&count_private=true&show_icons=true&hide=prs&theme=radical)
+- **Kaggle Rank**: ![Kaggle Rank](https://img.shields.io/badge/Kaggle%20Rank-Top%20100-blue?style=flat&logo=kaggle)
+- **LinkedIn Profile Views**: ![LinkedIn Profile Views](https://img.shields.io/badge/LinkedIn%20Profile%20Views-1k%2B-blue?style=flat&logo=linkedin)
+- **Coursera Certifications**: ![Coursera Certifications](https://img.shields.io/badge/Certifications%20Completed-5-brightgreen?style=flat&logo=coursera)
