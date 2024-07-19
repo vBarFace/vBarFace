@@ -9,7 +9,9 @@ I'm a passionate Master’s student in Computational Engineering at Aveiro Unive
 
 ## Skills
 - **Languages:** Python
-- **Frameworks and Tools:** PyTorch, Keras, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Jupyter Notebook, Git
+  - **Frameworks and Tools:** PyTorch, Keras, NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, TensorFlow, Jupyter Notebook
+- **Version Control:** Git
+- **Databases:** SQL
 
 ## Projects
 Here are some notable projects I've worked on:
