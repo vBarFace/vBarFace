@@ -98,9 +98,6 @@ If curiouse, there is my [Kaggle](https://www.kaggle.com/andrfernandes16), [Data
 ### GitHub Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vBarFace&theme=radical)
 
-### GitHub Contributions Calendar
-![GitHub Contributions](https://github-contributions.simonw.dev/?username=vBarFace)
-
 ### GitHub Profile Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=vBarFace)
 
