@@ -96,3 +96,18 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andr%C3%A
 
 ### Profile Trophy
 ![Trophy](https://github-profile-trophy.vercel.app/?username=vBarFace)
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vBarFace&count_private=true&show_icons=true&hide=prs&theme=radical)
+
+<!-- GitHub Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vBarFace&theme=radical)
+
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vBarFace&theme=radical)
+
+<!-- GitHub Activity -->
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=vBarFace&theme=radical)
+
+<!-- Profile Trophy -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=vBarFace)
