@@ -102,7 +102,7 @@ If curiouse, there is my [Kaggle](https://www.kaggle.com/andrfernandes16), [Data
 ![trophy](https://github-profile-trophy.vercel.app/?username=vBarFace)
 
 ### GitHub Activity Graph
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vBarFace&theme=radical)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=vBarFace&theme=radical)
 
 ### Wakatime Coding Stats
 [![Wakatime](https://wakatime.com/badge/user/USER_ID.svg)](https://wakatime.com/@USER_ID)
