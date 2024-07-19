@@ -94,6 +94,3 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andr%C3%A
 
 ### Profile Trophy
 ![Trophy](https://github-profile-trophy.vercel.app/?username=vBarFace)
-
-### Stats Card
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vBarFace&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
