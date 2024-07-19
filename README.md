@@ -37,7 +37,40 @@ A project for the Kaggle Digit Recognizer competition, showcasing advanced data 
 [Coursera Profile](https://www.coursera.org/user/fb5210b9b4949a09c98ddb03be592915)
 
 ### DataCamp
-- Introduction to Deep Learning with PyTorch / Intermediate Deep Learning with PyTorch / Deep Learning for Images with PyTorch / Advanced Deep Learning with Keras / Image Modeling with Keras / Introduction to Deep Learning with Keras / Deep Learning for Text with PyTorch / Image Processing in Python / Monitoring Machine Learning Concepts / Monitoring Machine Learning in Python / End-to-End Machine Learning / Introduction to Databases in Python / Introduction to SQL / Intermediate Importing Data in Python / Preprocessing for Machine Learning in Python / Developing Python Packages / Machine Learning for Business / Intermediate SQL / Joining Data in SQL / Introduction to Git / Introduction to AWS / Parallel Programming with Dask in Python / MLOps Concepts
+- Deep Learning with PyTorch
+  - Introduction to Deep Learning with PyTorch
+  - Intermediate Deep Learning with PyTorch
+  - Deep Learning for Text with PyTorch
+- Deep Learning with Keras
+  - Introduction to Deep Learning with Keras
+  - Advanced Deep Learning with Keras
+  - Image Modeling with Keras
+- Deep Learning for Images
+  - Deep Learning for Images with PyTorch
+- Image Processing
+  - Image Processing in Python
+
+- Machine Learning Concepts
+  - Monitoring Machine Learning Concepts
+  - Monitoring Machine Learning in Python
+  - End-to-End Machine Learning
+  - Preprocessing for Machine Learning in Python
+- Databases and SQL
+  - Introduction to Databases in Python
+  - Introduction to SQL
+  - Intermediate SQL
+  - Joining Data in SQL
+- Data Importing and Processing
+  - Intermediate Importing Data in Python
+  - Parallel Programming with Dask in Python
+- Software Development
+  - Developing Python Packages
+  - Introduction to Git
+- Cloud and MLOps
+  - Introduction to AWS
+  - MLOps Concepts
+- Business Applications
+  - Machine Learning for Business
 
 [DataCamp Profile](https://www.datacamp.com/portfolio/KaraBassasa)
   
@@ -50,7 +83,7 @@ A project for the Kaggle Digit Recognizer competition, showcasing advanced data 
 ## Experience
 
 ### Taekwondo Athlete (Sep 2008 - Dec 2018)
-Competed in various national and international tournaments, representing Portugal’s National Team. In my [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-fernandes-868006207/) are my all time achievements:
+Competed in various national and international tournaments, representing Portugal’s National Team. In my [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-fernandes-868006207/) are listed my all time achievements.
 
 ### Taekwondo Coach (2016 - 2018)
 Taught and managed training sessions for different age groups, creating and delivering training plans tailored to each group.
