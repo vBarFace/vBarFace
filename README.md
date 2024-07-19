@@ -90,13 +90,14 @@ Explore my profiles on [Kaggle](https://www.kaggle.com/andrfernandes16), [DataCa
 ## GitHub Profile
 
 ### GitHub Activity
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=vBarFace&theme=radical)
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=vBarFace&theme=react-dark)
 
 ### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vBarFace&count_private=true&show_icons=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vBarFace&count_private=true&show_icons=true&hide=prs&theme=radical&hide_title=true&hide_rank=true&include_all_commits=true&custom_title=My%20GitHub%20Stats)
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vBarFace&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vBarFace&theme=radical&layout=compact&langs_count=10&hide=html)
 
 ### Profile Trophy
-![Trophy](https://github-profile-trophy.vercel.app/?username=vBarFace)
+![Trophy](https://github-profile-trophy.vercel.app/?username=vBarFace&theme=radical&no-frame=true&margin-w=15&margin-h=15)
+
