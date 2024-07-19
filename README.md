@@ -40,6 +40,7 @@ A project for the Kaggle Digit Recognizer competition, showcasing advanced data 
 
 ### Taekwondo Athlete (Sep 2008 - Dec 2018)
 Competed in various national and international tournaments, representing Portugal’s National Team. Bellow are my all time achievements:
+
 -🥇X Jogos Desportivos CPLP (Portugal Nacional Team) 🇨🇻
 -🥇🥇Indoor Brussels International Tournament 🇧🇪
 -🥇Open Taekwondo Cidade Lourosa- International 🇵🇹
