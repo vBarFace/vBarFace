@@ -41,38 +41,38 @@ A project for the Kaggle Digit Recognizer competition, showcasing advanced data 
 ### Taekwondo Athlete (Sep 2008 - Dec 2018)
 Competed in various national and international tournaments, representing Portugal’s National Team. Bellow are my all time achievements:
 
--🥇X Jogos Desportivos CPLP (Portugal Nacional Team) 🇨🇻
--🥇🥇Indoor Brussels International Tournament 🇧🇪
--🥇Open Taekwondo Cidade Lourosa- International 🇵🇹
--🥇🥇Campeonato Distrital Taekwondo S. C. C 🇵🇹
--🥇🥇Open Internacional de Sintra de Taekwondo 🇵🇹
--🥇Campionato Internacional Cidade Ribeira 🇪🇸
--🥇🥇🥇🥇Campeonato Nacional de Taekwondo🇵🇹
--🥇Open Internacional Taekwondo Cidade de Pontevedra 🇪🇸
--🥇Seixalíadas 🇵🇹
--🥇Open Internacional Cidade de Peniche 🇵🇹
--🥇Copa Cidade da Coruna 🇪🇸
--🥇🥇Open Vila de Moana 🇪🇸
--🥇🥇Open Jovens D'ouro 🇵🇹
--🥇Torneio de Taekwondo Estrelas Susanenses Valongo 🇵🇹
--🥇🥇Open Internacional Cando 🇵🇹
--🥈Open de Espanha Taekwondo G1 🇪🇸
--🥈🥈Torneio "Amizade" Nazaré 🇵🇹
--🥈🥈Open Internacional Cando 🇵🇹
--🥈Campionato Internacional Cidade Riveira 🇪🇸
--🥈Open Vila de Moana 🇪🇸
--🥈Seixalíadas 🇵🇹
--🥈Open de Portugal 🇵🇹
--🥉Dutch Masters Open 🇳🇱
--🥉🥉🥉Open Internacional Cando 🇵🇹
--🥉Torneio "Amizade" Nazaré 🇵🇹
--🥉Open Taekwondo Cidade Lourosa - Internacional 🇵🇹
--🥉Open de Portugal 🇵🇹
--🏅European Taekwondo Cadete(Portugal Nacional Team) Championships (4th place) 🇫🇷
--🏅🏅Open de Espanha Taekwondo G1 🇪🇸
--🏅Dutch Open Taekwondo Championships G1 🇳🇱
--🏅Luxembourg Open G1 🇱🇺
--🏅WTF G1 Belgian Open 🇧🇪
+- 🥇X Jogos Desportivos CPLP (Portugal Nacional Team) 🇨🇻
+- 🥇🥇Indoor Brussels International Tournament 🇧🇪
+- 🥇Open Taekwondo Cidade Lourosa- International 🇵🇹
+- 🥇🥇Campeonato Distrital Taekwondo S. C. C 🇵🇹
+- 🥇🥇Open Internacional de Sintra de Taekwondo 🇵🇹
+- 🥇Campionato Internacional Cidade Ribeira 🇪🇸
+- 🥇🥇🥇🥇Campeonato Nacional de Taekwondo🇵🇹
+- 🥇Open Internacional Taekwondo Cidade de Pontevedra 🇪🇸
+- 🥇Seixalíadas 🇵🇹
+- 🥇Open Internacional Cidade de Peniche 🇵🇹
+- 🥇Copa Cidade da Coruna 🇪🇸
+- 🥇🥇Open Vila de Moana 🇪🇸
+- 🥇🥇Open Jovens D'ouro 🇵🇹
+- 🥇Torneio de Taekwondo Estrelas Susanenses Valongo 🇵🇹
+- 🥇🥇Open Internacional Cando 🇵🇹
+- 🥈Open de Espanha Taekwondo G1 🇪🇸
+- 🥈🥈Torneio "Amizade" Nazaré 🇵🇹
+- 🥈🥈Open Internacional Cando 🇵🇹
+- 🥈Campionato Internacional Cidade Riveira 🇪🇸
+- 🥈Open Vila de Moana 🇪🇸
+- 🥈Seixalíadas 🇵🇹
+- 🥈Open de Portugal 🇵🇹
+- 🥉Dutch Masters Open 🇳🇱
+- 🥉🥉🥉Open Internacional Cando 🇵🇹
+- 🥉Torneio "Amizade" Nazaré 🇵🇹
+- 🥉Open Taekwondo Cidade Lourosa - Internacional 🇵🇹
+- 🥉Open de Portugal 🇵🇹
+- 🏅European Taekwondo Cadete(Portugal Nacional Team) Championships (4th place) 🇫🇷
+- 🏅🏅Open de Espanha Taekwondo G1 🇪🇸
+- 🏅Dutch Open Taekwondo Championships G1 🇳🇱
+- 🏅Luxembourg Open G1 🇱🇺
+- 🏅WTF G1 Belgian Open 🇧🇪
 
 ### Taekwondo Coach (2016 - 2018)
 Taught and managed training sessions for different age groups, creating and delivering training plans tailored to each group.
