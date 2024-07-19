@@ -101,17 +101,5 @@ If curiouse, there is my [Kaggle](https://www.kaggle.com/andrfernandes16), [Data
 ### GitHub Profile Trophy
 ![trophy](https://github-profile-trophy.vercel.app/?username=vBarFace)
 
-### GitHub Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=vBarFace&theme=radical)
-
-### Wakatime Coding Stats
-[![Wakatime](https://wakatime.com/badge/user/USER_ID.svg)](https://wakatime.com/@USER_ID)
-
-### Dev Metrics
-[![Dev Metrics](https://devmetrics.io/api/metrics?username=vBarFace)](https://devmetrics.io/)
-
 ### GitHub Stats Card
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vBarFace&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-
-### GitHub Profile Summary
-![GitHub Summary](https://github-profile-summary.vercel.app/api?username=vBarFace)
