@@ -89,15 +89,17 @@ Explore my profiles on [Kaggle](https://www.kaggle.com/andrfernandes16), [DataCa
 
 ## GitHub Profile
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vBarFace&count_private=true&show_icons=true&hide=prs&theme=radical)
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vBarFace&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-### GitHub Activity
-![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=vBarFace&theme=radical)
+### 🌐 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vBarFace&layout=compact&theme=radical)
 
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vBarFace&theme=radical)
+### 📈 Activity Graph
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=vBarFace&theme=dracula)
 
-### Profile Trophy
-![Trophy](https://github-profile-trophy.vercel.app/?username=vBarFace)
+### 🏆 Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=vBarFace&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
+### 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=vBarFace&color=brightgreen)
