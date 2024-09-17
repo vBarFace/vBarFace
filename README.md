@@ -5,7 +5,8 @@ I'm a passionate Master’s student in Computational Engineering at Aveiro Unive
 
 - 🌍 Based in Porto, Portugal
 - 📚 Master’s Student at Aveiro University
-- 🛠️ Aspiring Data Scientist and/or Machine Learning Engineer
+- 🛠️ Intern @ Bosch Security Systems - Blemish Detection Algorithms for Image Sensor Improvement and Qualification during Camera Production
+  - Aspiring Data Scientist and/or Machine Learning Engineer
 
 ## Skills
 - **Languages:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
