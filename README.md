@@ -21,7 +21,8 @@ Here are some notable projects I've worked on:
 Developed in order to complete my Computacional Engineering Bachelor's degree. This project focuses on analyzing traffic using video data from fixed cameras adn extracting different metrics.
 ### [Heart-Disease-Prediction-and-Classification-using-Machine-Learning](https://github.com/vBarFace/Heart-Disease-Prediction-and-Classification-using-Machine-Learning)
 This project aims to predict and classify heart disease using machine learning.
-### []()
+### [Pneumonia Classification on X-rays using Convolutional Neural Networks](https://github.com/vBarFace/Pneumonia-Classification-on-X-rays-using-Convolutional-Neural-Networks)
+This repository contains the implementation of a Pneumonia Classification system on X-ray images using Convolutional Neural Networks (CNNs).
 
 ## Certifications
 
