@@ -17,8 +17,11 @@ I'm a passionate Master’s student in Computational Engineering at Aveiro Unive
 ## Projects
 Here are some notable projects I've worked on:
 
-#### [Advanced Traffic Analysis from Fixed Camera Video Data](https://github.com/vBarFace/ADVANCED-TRAFFIC-ANALYSIS-FROM-FIXED-CAMERA-VIDEO-DATA)
-Developed in order to complete my Computacional Engineering Bachelor's degree. This project focuses on analyzing traffic using video data from fixed cameras adn extracting different metrics. 
+### [Advanced Traffic Analysis from Fixed Camera Video Data](https://github.com/vBarFace/ADVANCED-TRAFFIC-ANALYSIS-FROM-FIXED-CAMERA-VIDEO-DATA)
+Developed in order to complete my Computacional Engineering Bachelor's degree. This project focuses on analyzing traffic using video data from fixed cameras adn extracting different metrics.
+### [Heart-Disease-Prediction-and-Classification-using-Machine-Learning](https://github.com/vBarFace/Heart-Disease-Prediction-and-Classification-using-Machine-Learning)
+This project aims to predict and classify heart disease using machine learning.
+### []()
 
 ## Certifications
 
