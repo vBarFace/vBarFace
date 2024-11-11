@@ -70,6 +70,9 @@ Also, feel free as well to explore my profiles on [Kaggle](https://www.kaggle.co
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vBarFace&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
+### 🏆 Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=vBarFace&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### 🌐 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vBarFace&layout=compact&theme=radical)
 
