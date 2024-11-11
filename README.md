@@ -38,40 +38,7 @@ A project for the Kaggle Digit Recognizer competition, showcasing advanced data 
 [Coursera Profile](https://www.coursera.org/user/fb5210b9b4949a09c98ddb03be592915)
 
 ### DataCamp
-- Deep Learning with PyTorch
-  - Introduction to Deep Learning with PyTorch
-  - Intermediate Deep Learning with PyTorch
-  - Deep Learning for Text with PyTorch
-- Deep Learning with Keras
-  - Introduction to Deep Learning with Keras
-  - Advanced Deep Learning with Keras
-  - Image Modeling with Keras
-- Deep Learning for Images
-  - Deep Learning for Images with PyTorch
-- Image Processing
-  - Image Processing in Python
-
-- Machine Learning Concepts
-  - Monitoring Machine Learning Concepts
-  - Monitoring Machine Learning in Python
-  - End-to-End Machine Learning
-  - Preprocessing for Machine Learning in Python
-- Databases and SQL
-  - Introduction to Databases in Python
-  - Introduction to SQL
-  - Intermediate SQL
-  - Joining Data in SQL
-- Data Importing and Processing
-  - Intermediate Importing Data in Python
-  - Parallel Programming with Dask in Python
-- Software Development
-  - Developing Python Packages
-  - Introduction to Git
-- Cloud and MLOps
-  - Introduction to AWS
-  - MLOps Concepts
-- Business Applications
-  - Machine Learning for Business
+- I took several courses that you can see bellow:
 
 [DataCamp Profile](https://www.datacamp.com/portfolio/KaraBassasa)
   
