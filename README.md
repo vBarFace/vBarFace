@@ -73,11 +73,5 @@ Also, feel free as well to explore my profiles on [Kaggle](https://www.kaggle.co
 ### 🌐 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vBarFace&layout=compact&theme=radical)
 
-### 📈 Activity Graph
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vBarFace&theme=radical)](https://github.com/vBarFace/github-readme-activity-graph)
-
-### 🏆 Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=vBarFace&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 ### 👁️ Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=vBarFace&color=brightgreen)
