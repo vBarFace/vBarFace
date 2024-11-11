@@ -18,22 +18,15 @@ I'm a passionate Master’s student in Computational Engineering at Aveiro Unive
 Here are some notable projects I've worked on:
 
 ### [Advanced Traffic Analysis from Fixed Camera Video Data](https://github.com/vBarFace/ADVANCED-TRAFFIC-ANALYSIS-FROM-FIXED-CAMERA-VIDEO-DATA)
-Developed for a Computer Engineering course, this project focuses on analyzing traffic using video data from fixed cameras.
-
-### [Kaggle Titanic Competition](https://github.com/vBarFace/Kaggle_Titanic_Competition)
-A comprehensive project for the Kaggle Titanic competition, implementing various data analysis and machine learning techniques.
-
-### [Kaggle Digit Recognizer](https://github.com/vBarFace/Kaggle-Digit-Recognizer)
-A project for the Kaggle Digit Recognizer competition, showcasing advanced data analysis and machine learning methods.
+Developed for a Computer Engineering course, this project focuses on analyzing traffic using video data from fixed cameras. 
 
 ## Certifications
 
 ### Coursera
 - **Machine Learning Specialization (DeepLearning.AI)**
-  - Courses:
-    - Supervised Machine Learning: Regression and Classification
-    - Advanced Learning Algorithms
-    - Unsupervised Learning, Recommenders, Reinforcement Learning
+  - Supervised Machine Learning: Regression and Classification
+  - Advanced Learning Algorithms
+  - Unsupervised Learning, Recommenders, Reinforcement Learning
 
 [Coursera Profile](https://www.coursera.org/user/fb5210b9b4949a09c98ddb03be592915)
 
