@@ -1,6 +1,4 @@
 # Hi there, I'm André Fernandes 👋 
-### 👁️ Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=vBarFace&color=brightgreen)
 
 ## About Me
 I'm a passionate Master’s student in Computational Engineering at Aveiro University, specializing in Data Science and/or Machine Learning. I’m dedicated to enhancing my skills and growing both personally and professionally. You can explore my projects on GitHub, where I showcase work from online courses and Kaggle competitions.
@@ -51,3 +49,6 @@ This project aims to predict and classify heart disease using machine learning.
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/andr%C3%A9-fernandes-868006207/).
 
 Also, feel free as well to explore my profiles on [Kaggle](https://www.kaggle.com/andrfernandes16), [DataCamp](https://www.datacamp.com/portfolio/KaraBassasa) and [Coursera](https://www.coursera.org/user/fb5210b9b4949a09c98ddb03be592915).
+
+### 👁️ Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=vBarFace&color=brightgreen)
