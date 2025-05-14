@@ -1,8 +1,8 @@
 # Hi there, I'm André Fernandes 👋 
 
 ## About Me
-I'm a Master’s student in Computational Engineering at Aveiro University, specializing in Data Science and/or Machine Learning. I’m dedicated to enhancing my skills and growing both personally and professionally. You can explore my projects on GitHub, where I showcase work I've done.
-- 🌍 Based in Porto, Portugal
+I'm a Master’s student in Computational Engineering at Aveiro University, specializing in Data Science / Machine Learning. You can explore my projects on GitHub, where I showcase work I've done.
+- 🌍 Based in Esmoriz, Portugal
 - 📚 Master’s Student at Aveiro University
 - 🛠️ Intern @ Bosch Security Systems - Blemish Detection Algorithms for Image Sensor Improvement and Qualification during Camera Production
   - Aspiring Data Scientist and/or Machine Learning Engineer
