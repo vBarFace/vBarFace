@@ -1,125 +1,193 @@
-<h1 align="center">Hi, I'm André Fernandes 👋</h1>
-
-<h3 align="center">Data Engineer & Tech Consultant building reliable pipelines and scalable data platforms.</h3>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/andr%C3%A9-fernandes-868006207/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://andre-fernandes.com">
+    <img
+      src="./assets/github-readme-hero.png"
+      alt="André Fernandes — Building useful things"
+      width="100%"
+    />
   </a>
 </p>
 
-## About Me
+<p align="center">
+  <strong>Data engineer · Product builder</strong>
+</p>
 
-I'm a **Data Engineer and Tech Consultant at Deloitte**, working on the design, development and reliability of data pipelines for high-volume telecom environments.
+<p align="center">
+  I build useful things — from data platforms to digital products.
+</p>
 
-My work focuses on moving data reliably from source systems into modern data-lake architectures—combining distributed processing, orchestration, incremental loading, data quality, reconciliation and performance tuning.
+<p align="center">
+  <a href="https://andre-fernandes.com">
+    <img
+      src="https://img.shields.io/badge/andre--fernandes.com-Visit-00483D?style=flat-square"
+      alt="Website"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/andre-fernandes-868006207/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-00483D?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
 
-I also have a background in **Machine Learning and Computer Vision**, developed through my academic work and my master's thesis at Bosch Security Systems, now part of Keenfinity Group.
+---
 
-- 🇵🇹 Based in Portugal
-- 🎓 M.Sc. in Computational Engineering from the University of Aveiro
-- 💼 Promoted from Tech Analyst to **Tech Consultant** at Deloitte in July 2026
-- 🏗️ Focused on Data Engineering, data platforms and analytics foundations
-- 🚀 Building digital products alongside my work in data
+## 01 — About
 
-## Highlights
+I'm André — a **data engineer and product builder from Portugal**.
 
-- Built and validated **Spark/PySpark pipelines handling multi-million-row daily workloads** in Data Lake environments.
-- Developed and orchestrated data workflows with **Apache Airflow** across high-volume telecom datasets.
-- Contributed to the modernization of data flows from an **Oracle Data Warehouse to an Apache Iceberg-based Data Lake**, using Trino for access, validation and reconciliation.
-- Implemented **incremental processing, high-water marks, partition-aware loading, automated data-quality checks and structured logging**.
-- Conducted industrial research in image-sensor quality analysis at Bosch/Keenfinity, resulting in a successful proof of concept and research **published and presented at IEEE MECO 2025**.
+Professionally, I work on the systems that make data useful: reliable pipelines, distributed processing, orchestration, data platforms, data quality and the engineering foundations behind analytics.
 
-## Tech Stack
+Outside of that, I build products.
+
+My background also includes **Machine Learning and Computer Vision**, developed through academic research and my master's thesis at Bosch Security Systems.
+
+Different problems, same principle:
+
+**Build useful things.**
+
+---
+
+## 02 — What I work with
 
 ### Data Engineering
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00483D?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00483D?style=flat-square&logo=postgresql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-00483D?style=flat-square&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-00483D?style=flat-square&logo=apachespark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-00483D?style=flat-square&logo=apacheairflow&logoColor=white)
 
 ### Data Platforms
 
-![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-4A90E2?style=flat)
-![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat&logo=trino&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![Data Lake](https://img.shields.io/badge/Data%20Lake-005571?style=flat)
+![Apache Iceberg](https://img.shields.io/badge/Apache_Iceberg-00483D?style=flat-square)
+![Trino](https://img.shields.io/badge/Trino-00483D?style=flat-square&logo=trino&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-00483D?style=flat-square&logo=oracle&logoColor=white)
+![Data Lake](https://img.shields.io/badge/Data_Lake-00483D?style=flat-square)
 
-### Engineering Tools
+### Product Engineering
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-00483D?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-00483D?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-00483D?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-00483D?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00483D?style=flat-square&logo=postgresql&logoColor=white)
 
-### Product Development
+### Engineering
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-00483D?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-00483D?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-00483D?style=flat-square&logo=linux&logoColor=white)
 
-## Experience
+---
 
-### Deloitte — Tech Consultant, AI & Data / Data Engineering
-
-**July 2025 – Present**  
-*Promoted from Tech Analyst to Tech Consultant in July 2026*
-
-- Develop and maintain Spark/PySpark pipelines for high-volume telecom data.
-- Orchestrate batch workflows and operational dependencies with Apache Airflow.
-- Support the modernization of Oracle Data Warehouse datasets into an Iceberg-based Data Lake architecture.
-- Build validation, reconciliation and data-quality processes using Python, SQL and Trino.
-- Troubleshoot Spark workloads and improve the reliability and efficiency of incremental processing.
-
-### Bosch Security Systems / Keenfinity Group — Master's Thesis Intern
-
-**September 2024 – June 2025**
-
-- Researched and developed methods for detecting blemishes and anomalies in industrial image sensors.
-- Explored feature engineering, Isolation Forest, One-Class SVM and GAN-based approaches.
-- Delivered a successful proof of concept for camera-production quality analysis.
-- Published and presented the resulting research at IEEE MECO 2025.
-
-## Currently Building
+## 03 — Currently building
 
 ### ORDO
+
+**Less chaos. More clarity.**
 
 A personal organization product designed to bring **tasks, calendar events, habits, journaling and routines** into one clear experience.
 
 `Next.js` · `React` · `Node.js` · `PostgreSQL`
 
+---
+
 ### Service Business Platform
 
-An in-development booking and operations platform for service businesses, designed around customizable customer journeys, back-office management, automated communications and operational KPIs.
+A customizable booking and operations platform for service businesses, designed around the idea that the software should feel like part of the business — not like a third-party tool.
+
+The platform combines **booking, customer management, operations, automated communications and analytics** into one configurable system.
 
 `Next.js` · `TypeScript` · `Fastify` · `PostgreSQL`
 
-## Selected Public Project
+---
+
+## 04 — Selected work
+
+### Data Engineering · Deloitte
+
+I currently work as a **Tech Consultant in AI & Data / Data Engineering**, building and operating data solutions for high-volume environments.
+
+Some of the areas I work across:
+
+- Spark and PySpark pipelines processing multi-million-row workloads
+- Batch orchestration and operational dependencies with Apache Airflow
+- Data movement between Oracle Data Warehouse environments and Apache Iceberg-based Data Lakes
+- Incremental processing and partition-aware loading
+- Data quality, validation and reconciliation
+- Distributed workload troubleshooting and performance improvement
+- SQL-based access and processing through Trino
+
+I joined Deloitte as a Tech Analyst in July 2025 and was promoted to **Tech Consultant in July 2026**.
+
+---
+
+### Computer Vision · Bosch Security Systems
+
+For my master's thesis, I researched methods for identifying **blemishes and anomalies in industrial image sensors**.
+
+The work explored approaches including:
+
+- Feature engineering
+- Isolation Forest
+- One-Class SVM
+- GAN-based methods
+- Industrial image-quality analysis
+
+The project resulted in a successful proof of concept, with the resulting research **published and presented at IEEE MECO 2025**.
+
+---
+
+## 05 — Selected public project
 
 ### [Advanced Traffic Analysis from Fixed-Camera Video](https://github.com/vBarFace/ADVANCED-TRAFFIC-ANALYSIS-FROM-FIXED-CAMERA-VIDEO-DATA)
 
-A computer-vision project developed during my bachelor's degree to extract traffic metrics from fixed-camera video data.
+A computer-vision project developed during my bachelor's degree to extract traffic information from fixed-camera video.
 
-## Education & Credentials
+The project combines image processing and computer vision techniques to transform raw video into useful traffic metrics.
+
+---
+
+## 06 — Background
 
 ### University of Aveiro
 
-- **M.Sc. in Computational Engineering** — 2022–2025
-- **B.Sc. in Computational Engineering** — 2019–2022
+**M.Sc. in Computational Engineering**  
+2022–2025
 
-### Certification
+**B.Sc. in Computational Engineering**  
+2019–2022
 
-- **Machine Learning Specialization — DeepLearning.AI / Stanford University**
-  - Supervised Machine Learning: Regression and Classification
-  - Advanced Learning Algorithms
-  - Unsupervised Learning, Recommenders and Reinforcement Learning
+### Machine Learning Specialization
 
-[View my Coursera profile](https://www.coursera.org/user/fb5210b9b4949a09c98ddb03be592915)
+**DeepLearning.AI / Stanford University**
 
-## Let's Connect
+- Supervised Machine Learning: Regression and Classification
+- Advanced Learning Algorithms
+- Unsupervised Learning, Recommenders and Reinforcement Learning
 
-I'm always happy to connect with people working on **Data Engineering, data platforms, analytics and data-intensive products**.
+[View credential profile →](https://www.coursera.org/user/fb5210b9b4949a09c98ddb03be592915)
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/andre-fernandes-868006207/).
+---
+
+## 07 — Elsewhere
+
+There's more to me than code and pipelines.
+
+I write about my work, projects and the things I'm building — alongside the rest of life — at:
+
+### [andre-fernandes.com →](https://andre-fernandes.com)
+
+You can also find me on [LinkedIn](https://www.linkedin.com/in/andre-fernandes-868006207/).
+
+---
+
+<p align="center">
+  <strong>Building useful things.</strong>
+</p>
+
+<p align="center">
+  <a href="https://andre-fernandes.com">andre-fernandes.com</a>
+</p>
